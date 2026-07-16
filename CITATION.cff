@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "FBAI: Fragmented Bio-Inspired Analog AI"
+abstract: "A non-conscious AI architecture designed to maintain Phi=0 using black hole cosmological analogies."
+authors:
+  - family-names: McLain
+    given-names: Benjamin
+version: 1.0.0
+date-released: 2026-07-16
+url: "https://github.com/GorrihmAI/fbai-nonconscious-ai"   
